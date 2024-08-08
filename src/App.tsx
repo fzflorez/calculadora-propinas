@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <header className=" w-full p-4 bg-cyan-600 text-center text-4xl font-black">
-        <h1>Calculadora de propinas y consumo</h1>
+        <h1>Calculadora de consumo</h1>
       </header>
 
       <div className=" max-w-7xl mx-auto grid grid-cols-2 my-20">
